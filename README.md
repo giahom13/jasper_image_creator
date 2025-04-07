@@ -8,4 +8,4 @@
 https://taipy.io/
 https://aistudio.google.com/prompts/new_chat
 
-![Brother Japser](Capture.png)
+![Brother Japser](Capture.PNG)
